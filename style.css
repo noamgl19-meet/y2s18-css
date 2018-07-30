@@ -2,7 +2,7 @@ body{
 	background-color: #87AF7C;
 }
 a{
-	color:red;
+	color:white;
 	text-decoration: none;
 	background-color: red;
 	font-family: Umpush;
@@ -18,12 +18,11 @@ a:hover{
 
 }
 .sidebar{
-	background-color:white;
 	position:fixed;
 	left: 0%; 
 	top:25%;
 	text-align:center;
-	height:100%;
+	border:1px solid black;
 }
 .header{
 	height:60px;
