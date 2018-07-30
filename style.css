@@ -2,7 +2,7 @@ body{
 	background-color: #87AF7C;
 }
 a{
-	color:white;
+	color:red;
 	text-decoration: none;
 	background-color: red;
 	font-family: Umpush;
@@ -10,15 +10,30 @@ a{
 a:hover{
 	background-color:green;	
 }
-.vegi{
-	color:green;
+
+.form{
+	background-color:white;
+	text-align:center;
+
 
 }
-.beef{
-	color:red;
-	font-family:Umpush;
-	font-size:20;
-}
-#list{
+.sidebar{
 	background-color:white;
+	position:fixed;
+	left: 0%; 
+	top:25%;
+	text-align:center;
+	height:100%;
+}
+.header{
+	height:60px;
+	width:100%;
+}
+.container{
+	position:relative;
+	height:100%;
+}
+.content{
+	position:absolute;
+	left:20%;
 }
