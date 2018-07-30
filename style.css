@@ -1,1 +1,24 @@
+body{
+	background-color: #87AF7C;
+}
+a{
+	color:white;
+	text-decoration: none;
+	background-color: red;
+	font-family: Umpush;
+}
+a:hover{
+	background-color:green;	
+}
+.vegi{
+	color:green;
 
+}
+.beef{
+	color:red;
+	font-family:Umpush;
+	font-size:20;
+}
+#list{
+	background-color:white;
+}
